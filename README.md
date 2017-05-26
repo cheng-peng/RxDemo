@@ -1,3 +1,3 @@
 # RxDemo
 
-#  	RxJava 使用扩展 和RxBus使用
+#  	RxJava 使用 和RxBus使用
